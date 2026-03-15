@@ -5,7 +5,7 @@ God-s-View-AI-War-Visualizer | 神の視点・AI-War-Visualizer
 
 **Civilization OS Calculator: AI War Visualizer**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-red)](https://choiizuka.github.io/AI-War-Visualizer/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-red)](https://choiizuka.github.io/God-s-View-AI-War-Visualizer/)
 
 > スライダーを右に動かすと、世界が壊れていく。
 > これはゲームではない。AI軍事利用の危険を「見て感じる」ためのビジュアライザーだ。
