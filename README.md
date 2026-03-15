@@ -14,7 +14,7 @@ God-s-View-AI-War-Visualizer | 神の視点・AI-War-Visualizer
 
 ## デモ / Live Demo
 
-**https://choiizuka.github.io/AI-War-Visualizer/**
+**https://choiizuka.github.io/God-s-View-AI-War-Visualizer/**
 
 ---
 
