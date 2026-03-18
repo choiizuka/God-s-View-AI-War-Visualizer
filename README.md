@@ -1,3 +1,5 @@
+[← Back to Reports|レポート一覧に戻る](https://github.com/choiizuka/reports-index)
+
 # God-s-View-AI-War-Visualizer
 God-s-View-AI-War-Visualizer | 神の視点・AI-War-Visualizer
 
